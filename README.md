@@ -6,6 +6,7 @@ All the solutions for the coding questions solved.
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/Palak2506/LeetCode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Palak2506/LeetCode/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/Palak2506/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Palak2506/LeetCode/tree/master/1258-article-views-i) |
