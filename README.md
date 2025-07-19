@@ -32,6 +32,7 @@ All the solutions for the coding questions solved.
 | [1827-invalid-tweets](https://github.com/Palak2506/LeetCode/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Palak2506/LeetCode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Palak2506/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1942-primary-department-for-each-employee](https://github.com/Palak2506/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/Palak2506/LeetCode/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Palak2506/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
