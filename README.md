@@ -44,4 +44,12 @@ All the solutions for the coding questions solved.
 | [2087-confirmation-rate](https://github.com/Palak2506/LeetCode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Palak2506/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Palak2506/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Palak2506/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Palak2506/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
