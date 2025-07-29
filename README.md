@@ -58,8 +58,14 @@ All the solutions for the coding questions solved.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Palak2506/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Palak2506/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Palak2506/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/Palak2506/LeetCode/tree/master/0328-odd-even-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Palak2506/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
