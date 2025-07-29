@@ -58,4 +58,8 @@ All the solutions for the coding questions solved.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Palak2506/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Palak2506/LeetCode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
