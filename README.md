@@ -54,6 +54,7 @@ All the solutions for the coding questions solved.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Palak2506/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Palak2506/LeetCode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +69,12 @@ All the solutions for the coding questions solved.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Palak2506/LeetCode/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Palak2506/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Palak2506/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
