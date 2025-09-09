@@ -53,6 +53,7 @@ All the solutions for the coding questions solved.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Palak2506/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Palak2506/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Palak2506/LeetCode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
@@ -68,6 +69,7 @@ All the solutions for the coding questions solved.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Palak2506/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Palak2506/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Divide and Conquer
 |  |
